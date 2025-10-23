@@ -123,9 +123,9 @@ This repository is inspired by the OpenCV Bootcamp and educational resources pro
 
 ## 📚 References
 
-   OpenCV Official Documentation
-   OpenCV University Bootcamp
-   PyImageSearch Tutorials
+- OpenCV Official Documentation
+- OpenCV University Bootcamp
+- PyImageSearch Tutorials
 
 ---
 
