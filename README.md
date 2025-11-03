@@ -64,6 +64,22 @@ Learn how these operations are used for masking, blending, and preprocessing in 
 
 ---
 
+### 🧩 Class 5 — Image Alignment
+Learn how to align a scanned or distorted image with a reference template using **feature matching** and **homography**.  
+This technique is widely used in document scanning, panorama stitching, and augmented reality.
+
+**What you’ll learn:**
+
+- Understanding **Homography** — a transformation that maps points between two planes.
+- Detecting keypoints using **ORB (Oriented FAST and Rotated BRIEF)**.
+- Matching features between two images using **Brute-Force Hamming matcher**.
+- Estimating **Homography matrix** using **RANSAC (Random Sample Consensus)**.
+- Warping one image to align perfectly with another using **cv2.warpPerspective()**.
+
+**Practical Use Case:**
+
+Aligning a scanned form or document to its original digital template for accurate data extraction and comparison.
+
 
 ## 🧑‍💻 How to Use
 
